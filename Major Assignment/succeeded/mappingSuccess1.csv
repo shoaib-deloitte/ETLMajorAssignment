@@ -1,0 +1,8 @@
+Region,Country,Item_Type,Sales_Channel,Order_Priority,Order_Date,Order_ID,Ship_Date,Units_Sold,Unit_Price,Unique_Code,Unit_Cost,Name
+Central America and the Caribbean,Saint Kitts and Nevis ,Snacks,Online,C,27/06/17,452521550,29/07/17,38,152.58,Judean550,97.44,Judy
+Asia,Brad_South Korea,Fruits,Online,C,01/01/14,931736171,5/1/2014,293,9.33,Brasia171,6.92,Brad
+Europe,Italy,Cereal,Online,C,30/11/15,887409770,5/12/2015,3126,205.7,Otiope770,117.11,Otis
+Asia,Sherlock_Vietnam,Fruits,Online,C,06/07/16,455516612,19/07/16,6343,9.33,Shesia612,6.92,Sherlock
+Asia,Johny_Singapore,Snacks,Online,C,28/01/13,176461303,7/2/2013,7676,152.58,Johsia303,97.44,Johny
+Central America and the Caribbean,Nicaragua,Household,Online,C,28/10/15,573998582,7/12/2015,7791,668.27,Devean582,502.54,Devis
+Asia,Nobita_Sri Lanka,Fruits,Online,H,13/03/17,484823930,20/04/17,9030,9.33,Nobsia930,6.92,Nobita
